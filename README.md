@@ -2,6 +2,7 @@
 This simple React app includes a To-Do List implementation that allows the user to create and manage a task list. The user can add a task in the input field and when he clicks on the "Add" button, this task will be added to the list.
 
 ![image](https://github.com/ozgeerkskn/To-Do-List-REACT/assets/105421946/4535565f-8986-4533-8090-ebdbbfe1d301)
+![image](https://github.com/ozgeerkskn/To-Do-List-REACT/assets/105421946/d779ab7f-a96f-444f-a276-e8c8c2660a62)
 
 ## Features
 
